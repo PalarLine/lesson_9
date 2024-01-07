@@ -1,0 +1,77 @@
+  [  
+
+    {
+      "id": 1,
+      "category": "High-Pressure Washer",
+      "productTitle": "Powerful Electric Pressure Washer",
+      "productImage": "https://content.rozetka.com.ua/goods/images/big/21573894.jpg",
+      "productDescription": "A high-pressure washer with powerful electric motor for efficient cleaning.",
+      "price": 149.99
+    },
+    {
+      "id": 2,
+      "category": "High-Pressure Washer",
+      "productTitle": "Gas-Powered Pressure Washer",
+      "productImage": "https://content.rozetka.com.ua/goods/images/big/21573894.jpg",
+      "productDescription": "Gas-powered pressure washer for heavy-duty cleaning tasks.",
+      "price": 229.99
+    },
+    {
+      "id": 3,
+      "category": "High-Pressure Washer",
+      "productTitle": "Portable Pressure Washer",
+      "productImage": "https://content.rozetka.com.ua/goods/images/big/21573894.jpg",
+      "productDescription": "Compact and portable pressure washer for easy maneuverability.",
+      "price": 99.99
+    },
+   
+    {
+      "id": 6,
+      "category": "Car Battery",
+      "productTitle": "Heavy-Duty Car Battery",
+      "productImage": "https://content2.rozetka.com.ua/goods/images/big/289328571.jpg",
+      "productDescription": "A reliable heavy-duty car battery for all types of vehicles.",
+      "price": 89.99
+    },
+    {
+      "id": 7,
+      "category": "Car Battery",
+      "productTitle": "AGM Deep Cycle Battery",
+      "productImage": "https://content2.rozetka.com.ua/goods/images/big/289328571.jpg",
+      "productDescription": "Advanced AGM deep cycle battery for high-performance applications.",
+      "price": 129.99
+    },
+    {
+      "id": 8,
+      "category": "Car Battery",
+      "productTitle": "Maintenance-Free Battery",
+      "productImage": "https://content2.rozetka.com.ua/goods/images/big/289328571.jpg",
+      "productDescription": "Maintenance-free car battery with long-lasting reliability.",
+      "price": 99.99
+    },
+   
+    { 
+      "id": 12, 
+      "category": "TV", 
+      "productTitle": "4K UHD TV", 
+      "productImage": "https://content1.rozetka.com.ua/goods/images/big/289698811.jpg", 
+      "productDescription": "Experience stunning 4K UHD resolution with this TV.", 
+      "price": 799.99
+    }, 
+    { "id": 13, 
+      "category": "TV", 
+      "productTitle": "5G Curved TV", 
+      "productImage": "https://content1.rozetka.com.ua/goods/images/big/289698811.jpg", 
+      "productDescription": "Immersive viewing with a curved LED display.", 
+      "price": 1299.99 },
+    {
+      "id": 14,
+      "category": "TV",
+      "productTitle": "55-Inch Smart TV", 
+      "productImage": "https://content1.rozetka.com.ua/goods/images/big/289698811.jpg", 
+      "productDescription": "Large 55-inch smart TV for an amazing entertainment experience.",
+       "price": 899.99
+    }
+    
+  ]
+ 
